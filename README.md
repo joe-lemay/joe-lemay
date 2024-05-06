@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @joe-lemay
+- 👋 Hi, I’m Joe LeMay
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U2bmE0eHdlMzgyeTJxY3p0bXJtN3pvYm9jNnM4eXV3dGdzNzNzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/brsEO1JayBVja/giphy.gif" width="200px">
 - 👀 I’m interested in data visualization, game development, machine learning, and so much more!
 - 🌱 I’m currently learning C# for fun, also experimenting with plotly, and chartjs.
 - 💞️ I’m looking to collaborate on game development
