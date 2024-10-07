@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on exciting new ideas and game development
 - 📫 Feel free to contact me at joe.lemay.dev@gmail.com
 - ⚡ Fun fact: There are more possible shuffles of a deck of cards, than there are atoms in most of the observable universe. <img style="display:block, margin: 0 auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRob2QzazZybmFodjlmMTYxaW1hdzR6OHU0cGo2bGNuYjVsMTNrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufdipQqU2lhNA4g/giphy.gif" width="50px">
-
+- 📣Be sure to check out <a href="https://joe-lemay.github.io/">My Portfolio</a>
 ### 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
